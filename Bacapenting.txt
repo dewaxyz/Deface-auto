@@ -1,0 +1,10 @@
+# Deface-auto
+Tidak ada keamanan situs web yang sempurna
+Sebelum menggunakan tools DFC.sh harus install bash/sh untuk menjalanlan tools DFC.sh
+Dan sebelum menggunakannya harus ikuti perintah ini
+$ cd Deface-auto
+$ pkg install sh
+$ sh install.sh
+$ sh DFC.sh
+
+Sekian dari gue dulu
